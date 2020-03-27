@@ -28,7 +28,7 @@
     "x509": "auth0/node-x509#v0.3.3-auth0",
     "xml-crypto": "LabShare/xml-crypto#hack",
     "xml-encryption": "0.11.0",
-    "xml2js": "0.1.x",
+    "xml2js": "0.4.23",
     "xmldom": "auth0/xmldom#v0.1.19-auth0_1",
     "xpath": "0.0.5",
     "xtend": "~2.0.3"
